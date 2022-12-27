@@ -5,5 +5,7 @@ I'll keep it short here. You're probably interested in some of my projects and r
 All other information about me is on my [website](https://omarshoura.com). Please check it out!
 
 Omar Shoura
+
 Computer Science at Northeastern University
+
 Class of 2024
