@@ -1,3 +1,11 @@
-Welcome to my profile!
+Hello! Welcome to my Github.
 
-My name is Omar Shoura, I'm a computer science major at Northeastern University.
+I'll keep it short here. You're probably interested in some of my projects and repos.
+
+I have pinned all of the relevant repos to my profile.
+
+All other information about me is on my [website](https://omarshoura.com). Please check it out!
+
+Omar Shoura
+Computer Science at Northeastern University
+Class of 2024
