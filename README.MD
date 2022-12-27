@@ -4,4 +4,4 @@ My name is **Omar Shoura**. I study computer science at Northeastern university.
 
 All other information about me is on my [website](https://omarshoura.com). Please check it out!
 
-[Alt text]("Professional PFP.png"?raw=true "Title")
+[Alt text]("Professional PFP.jpg"?raw=true "Title")
